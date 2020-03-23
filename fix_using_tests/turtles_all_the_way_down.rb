@@ -15,3 +15,5 @@ def turtle_traits(turtles)
     end
   end
 end
+
+turtle_traits(turtles)
